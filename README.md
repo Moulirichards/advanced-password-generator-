@@ -1,6 +1,6 @@
 # advanced-password-generator-
-uses python , Tkinter  #Oasisinfobyte intership project
-PasswordGenerator that creates a simple GUI (Graphical User Interface) for generating strong, customizable passwords.
+uses python , Tkinter  #Oasisinfobyte 
+Password Generator that creates a simple GUI (Graphical User Interface) for generating strong, customizable passwords.
 
 The GUI allows users to:
 Specify password length.
