@@ -1,5 +1,5 @@
 # advanced-password-generator-
-# Oasisinfobyte 
+# Oasisinfobyte
 
 Password Generator that creates a simple GUI (Graphical User Interface) for generating strong, customizable passwords.
 
